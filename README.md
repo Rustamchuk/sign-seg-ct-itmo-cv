@@ -4,9 +4,9 @@
 
 ---
 
-[Посмотреть отчет в Jupyter Notebook](./lab2_number_detection2.ipynb)
+[Посмотреть отчет в Jupyter Notebook](./checkpoint.ipynb)
 
-[Посмотреть отчет в формате PDF](./lab2_number_detection2.md)
+[Посмотреть отчет в формате PDF](./lab3_segmentation.pdf)
 
 ---
 
