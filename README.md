@@ -10,6 +10,10 @@
 
 ---
 
+ВИДЕО ДЛЯ ИНФЕРЕНСА ----- https://drive.google.com/drive/folders/1Sgb4bSIacwV_QZ0354iFkhMbaT6n5u1y?usp=sharing
+
+---
+
 ## Компьютерное зрение
 
 # Лабораторная 3 - 10 баллов (дедлайн 26.02)
